@@ -1,0 +1,45 @@
+# Como utilizar?
+
+O programa é muito simples, tendo ele uma interface o tornando
+mais fácil e simples para utilizar, com ele você terá 3 campos de entrada de texto,
+Onde eles são o nome do arquivo, diretorio, e a URL do site que deseja coletar o HTML dele, após isso basta
+você pressionar o botão de "Criar HTML" para fazer a construção da página em seu diretório que você inseriu
+
+# Observações
+
+O Diretório deve conter inserido a "/" no final, para indicar somente
+se você quiser colocar este arquivo em um diretorio no caso.
+
+Você não precisa inserir a extensão do arquivo ao inserir o nome do arquivo, o arquivo é nomeado
+com a extensão .html automaticamente.
+
+# Perguntas
+
+| Tem como ler o arquivo HTML? |
+Não, porém é temporário, já está sendo desenvolvido,
+e por sinal você poderá editar o arquivo em HTML.
+
+| O arquivo HTML funciona offline? |
+Não, o arquivo HTML é como se fosse o site, porém em forma de arquivo
+mas possívelmente em breve poderei colocar esta possibilidade.
+
+| Funciona pelo Celular? |
+Sim!, Por incrível que pareça, funciona muito bem, basta você baixar o App PyDroid3,
+com ele você executa quase todos os programas que já fiz aqui na GitHub, porém ele irá necessitar que você
+baixe a biblioteca (BeautifulSoup) para que o programa funcione corretamente, basta ir no Terminal
+no App e digitar "pip install bs4", depois disse você já poderá executar o software pelo seu android.
+
+# Atualizações Futuras
+- Adicionar Editor de HTML
+- Adicionar Visualizador (Em Texto)
+- Criar novo Design
+- Entre Outros...
+
+# Requisitos
+- Sistema operacional: Windows, Linux, Android
+- Versão do Python: 3+
+- Bibliotecas: os, time, bs4, urllib, tkinter
+
+# Finalização
+Bem, como eu mostrei para vocês nesse guia, o software é bastante simples de se utilizar, o programa requer muitas atualizações
+a serem feitas.
